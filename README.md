@@ -26,16 +26,16 @@
   
   ##### Транспортные средства
   
-  ![1](C:\Users\datky\IdeaProjects\database_task\files\1.png)
+  ![1](files\1.png)
 
 ##### 	Автомобильные гонки
 
-![2](C:\Users\datky\IdeaProjects\database_task\files\2.png)
+![2](files\2.png)
 
 ##### 	Бронирование отелей
 
-![3](C:\Users\datky\IdeaProjects\database_task\files\3.png)
+![3](files\3.png)
 
 ##### Структура организации
 
-![4](C:\Users\datky\IdeaProjects\database_task\files\4.png)
+![4](files\4.png)
